@@ -128,4 +128,4 @@ open dashboard/index.html
 
 ---
 
-*Built by [Your Name] · March 2024 · Open to feedback and contributions*
+Built by Sakshi Chamoli 
