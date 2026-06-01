@@ -1,6 +1,6 @@
 -- ============================================================
 --  RetailPulse: Sales & Customer Intelligence
---  Author   : [Your Name]
+--  Author   : Sakshi Chamoli 
 --  Database : PostgreSQL 15
 --  Dataset  : Synthetic retail data — FY 2023 (India ops)
 -- ============================================================
