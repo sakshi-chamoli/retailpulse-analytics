@@ -81,7 +81,6 @@ Customers with >60 days inactivity AND lifetime value > ₹15,000. Simple but im
 | PostgreSQL 15 | Primary database & all analytics queries |
 | Python (`faker`, `pandas`, `numpy`) | Synthetic data generation |
 | Python (`psycopg2`) | Data loading scripts |
-| Excel | Power BI | Visualisation |
 
 ---
 
