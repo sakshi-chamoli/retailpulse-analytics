@@ -81,7 +81,7 @@ Customers with >60 days inactivity AND lifetime value > ₹15,000. Simple but im
 | PostgreSQL 15 | Primary database & all analytics queries |
 | Python (`faker`, `pandas`, `numpy`) | Synthetic data generation |
 | Python (`psycopg2`) | Data loading scripts |
-| Tableau Public / custom HTML dashboard | Visualisation |
+| Excel | Power BI | Visualisation |
 
 ---
 
@@ -89,13 +89,10 @@ Customers with >60 days inactivity AND lifetime value > ₹15,000. Simple but im
 
 ```
 retailpulse/
-├── schema/
-│   └── retailpulse_queries.sql   ← Full schema + 8 analysis queries + views + indexes
-├── data_gen/
-│   └── generate_data.py          ← Synthetic data generation script
-├── dashboard/
-│   └── index.html                ← Interactive HTML dashboard
+├── retailpulse_queries.sql  ← Full schema + 8 analysis queries + views + indexes
 └── README.md
+
+Data generation script and dashboard coming soon.
 ```
 
 ---
