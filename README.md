@@ -64,7 +64,7 @@ Customers with >60 days inactivity AND lifetime value > ₹15,000. Simple but im
 
 ---
 
-## Findings (Q4 2023)
+## Sample Findings(2025)
 
 - **Loyal segment (28% of users) → 45% of revenue.** Classic 80/20 in action.
 - **Electronics return rate: 3.1%** vs. Apparel at 9.4%. Suggests apparel sizing/description issues.
